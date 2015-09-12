@@ -1,4 +1,4 @@
 # cabana_foto
-Raspberry photo mariage
+Raspberry machine automatique pour prendre des photo et les imprimer en direct et en double lors du mariage de Raphäelle
 
-evolution vers un sytus compliqué pour SIF
+évolution vers un systus plus compliqué pour SIF
