@@ -4,6 +4,10 @@ import RPi.GPIO as GPIO
 import time
 import cups
 
+""" Prend des photo ,redimensionne,archive ,imprime
+
+BOUTON --> GPIO 23 contact par poussoir 
+"""
 LED_V = 17
 LED_J = 4
 BOUTON = 23
@@ -14,7 +18,7 @@ GPIO.setup(BOUTON, GPIO.IN)
 
 GPIO.output(LED_J, GPIO.LOW)
 GPIO.output(LED_V, GPIO.HIGH)
-	    
+
 ETAT_BOUTON = False
 I=0
 conn = cups.Connection ()
