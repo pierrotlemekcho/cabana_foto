@@ -398,3 +398,107 @@ man mail
 man mailx
 man mailto
 exit
+history 
+ls -al
+cat .bash_logout 
+cat .bashrc
+history 
+cat /etc/fstab
+s
+ls
+exit
+ls
+sudo shutdown -h now
+nano teleinfo.py
+python teleinfo.py 
+nano teleinfo.py
+python teleinfo.py 
+sudo python teleinfo.py 
+sudo shutdown -h now
+sudo python teleinfo.py 
+python teleinfo.py 
+sudo python teleinfo.py 
+nano teleinfo.py
+sudo python teleinfo.py 
+sudo shutdown -r now
+history 
+sudo python teleinfo.py 
+sudo shutdown -h now
+history 
+cd /etc/
+ls
+cat fstab
+sudo nano fstab
+sudo shutdown -h now
+sudo aptget update
+sudo apt-get update
+sudo apt-get upgrade
+sudo shutdown -r now
+ps aux | grep ttyAmA0
+top
+ps aux | grep ttyAmA0
+top
+man ps
+man aux
+man greop
+man grep
+ps aux
+ps aux | grep ttyAmA0
+ps aux
+cat /dev/ttyAMA0 
+sudo cat /dev/ttyAMA0 
+sudo tail /dev/ttyAMA0 
+sudo cat /dev/ttyAMA0 
+sudo tail /dev/ttyAMA0 
+sudo cat /dev/ttyAMA0 
+ps aux | grep ttyAmA0
+ps aux
+ps aux | grep ttyAmA0
+man pas aux
+man ps aux
+sudo cat /dev/ttyAMA0 
+sudo python teleinfo.py 
+sudo cat /dev/ttyAMA0 
+sudo tail /dev/ttyAMA0 
+sudo cat /dev/ttyAMA0 
+sudo python teleinfo.py 
+sudo cat /dev/ttyAMA0 
+sudo python teleinfo.py 
+sudo cat /dev/ttyAMA0 
+sudo python teleinfo.py 
+sudo cat /dev/ttyAMA0 
+ps aux | grep ttyAmA0
+sudo -F /dev/tty/AMA0 -a
+sudo stty -F /dev/tty/AMA0 -a
+sudo stty -F /dev/ttyAMA0 -a
+sudo python teleinfo.py 
+sudo stty -F /dev/ttyAMA0 -a
+sudo python teleinfo.py 
+sudo stty -F /dev/ttyAMA0 -a
+sudo python teleinfo.py 
+sudo stty -F /dev/ttyAMA0 -a
+sudo python teleinfo.py 
+sudo stty -F /dev/ttyAMA0 -a
+sudo python teleinfo.py 
+sudo stty -F /dev/ttyAMA0 -a
+sudo python teleinfo.py 
+sudo stty -F /dev/ttyAMA0 -a
+exiit
+exit
+cd /boot/
+ll
+ls -a
+ll
+ls
+cp cmdline.txt cmdline_20151128.txt 
+sudo cp cmdline.txt cmdline_20151128.txt 
+ll
+ls
+sudo nano cmdline.txt 
+cd /etc/
+ll
+ls
+nano inittab 
+sudo nano inittab 
+ls
+sudo shutdown -r now
