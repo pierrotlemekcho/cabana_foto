@@ -4,7 +4,7 @@ import datetime
 
 def faire_trame(f):
     print f 
-
+# essai de pour git
   
 if __name__ == '__main__' :
     s = serial.Serial(port='/dev/ttyAMA0', baudrate=1200, bytesize=serial.SEVENBITS, parity=serial.PARITY_EVEN, stopbits=serial.STOPBITS_ONE)

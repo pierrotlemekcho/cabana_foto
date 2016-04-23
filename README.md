@@ -3,4 +3,5 @@ Raspberry machine automatique pour prendre des photo et les imprimer en direct e
 
 Raspberry comptage pour compteur LINKY
 
-évolution vers un système plus compliqué pour SIF
+évolution vers un système plus compliqué pour SIF et pour CIFE
+
