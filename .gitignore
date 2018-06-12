@@ -1,0 +1,5 @@
+# virtual env
+bin/
+lib/
+*.json
+include/
