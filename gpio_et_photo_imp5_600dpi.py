@@ -22,7 +22,7 @@ GPIO.output(LED_V, GPIO.HIGH)
 ETAT_BOUTON = False
 I=0
 conn = cups.Connection ()
-cadre = 'cadre_shim.png'
+cadre = 'cadre_shim600.png'
 im4 =Image.open(cadre)
 
 with  picamera.PiCamera() as camera:
@@ -57,10 +57,10 @@ with  picamera.PiCamera() as camera:
             time.sleep(1)
             camera.capture(ficphoto1png)
             im1 = Image.open(ficphoto1png)
-            im2 = im1.resize((503,282))
+            im2 = im1.resize((2012,1128))
             im4 =Image.open(cadre)
-            im4.paste(im2,(29,18))
-            im4.paste(im2 ,(29,371))
+            im4.paste(im2,(116,72))
+            im4.paste(im2 ,(116,1484))
             im4.save(fotomaton ,'PNG')
             retour = conn.printFile("Canon_iP2800_series",fotomaton,"Hello",{})
             while conn.getJobAttributes(retour)["job-state"] != 9 :
