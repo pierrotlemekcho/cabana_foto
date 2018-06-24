@@ -10,3 +10,6 @@ Raspberry comptage pour compteur LINKY à LYON
 
 évolution vers un système plus compliqué pour SIF et pour CIFE 
 
+## Reinitialiser config imprimante
+
+cp  Canon_iP2800_series.ppd /etc/cups/ppd/
